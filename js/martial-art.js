@@ -8,7 +8,7 @@ let loadImage = (src, callback) => {
 };
 
 let imagePath = (frameNumber, animation) => {
-  return "images/martial-arts/" + animation + "/" + frameNumber + ".png";
+  return "https://tejaschauhanmefgi.github.io/WD101/images/martial-arts/" + animation + "/" + frameNumber + ".png";
 };
 
 let frames = {
